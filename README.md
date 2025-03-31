@@ -131,11 +131,7 @@ Commercial Deployment Notes
 
     Custom Branding: Modify HTML/CSS to reflect your corporate identity
 
-    Legal Compliance: Ensure solution meets local wireless regulations
-
-    Support: Plan for ongoing maintenance and user support
-
-    Documentation: Supplement this README with specific deployment guides
+    Legal Compliance: There is no warranty for safety and legal terms
 
 License
 
